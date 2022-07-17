@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitExample
 {
-    internal class Student
+    public class Student
     {
+        public int id { get; set; }
+        public string Name { get; set; } 
+
+        public string RegNo{ get; set; }
     }
 }
