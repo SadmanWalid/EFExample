@@ -1,2 +1,2 @@
 # EFExample
-A test project to practice EntityFramework Core.
+A test project to practice EntityFramework Core and Git.
