@@ -1,0 +1,15 @@
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\bin\Debug\net6.0\GitExample.exe
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\bin\Debug\net6.0\GitExample.deps.json
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\bin\Debug\net6.0\GitExample.runtimeconfig.json
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\bin\Debug\net6.0\GitExample.dll
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\bin\Debug\net6.0\GitExample.pdb
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\GitExample.csproj.AssemblyReference.cache
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\GitExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\GitExample.AssemblyInfoInputs.cache
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\GitExample.AssemblyInfo.cs
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\GitExample.csproj.CoreCompileInputs.cache
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\GitExample.dll
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\refint\GitExample.dll
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\GitExample.pdb
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\GitExample.genruntimeconfig.cache
+E:\eGeneration\Training\SelfTests\Git\Git-Part-S-Islam-M\GitExample\GitExample\obj\Debug\net6.0\ref\GitExample.dll
