@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\eGeneration\\Training\\SelfTests\\Git\\Git-Part-S-Islam-M\\GitExample\\GitExample\\GitExample.csproj",
+      "projectUniqueName": "E:\\eGeneration\\Training\\SelfTests\\Git\\Git-MD\\EFExample\\GitExample\\GitExample.csproj",
       "projectName": "GitExample",
-      "projectPath": "E:\\eGeneration\\Training\\SelfTests\\Git\\Git-Part-S-Islam-M\\GitExample\\GitExample\\GitExample.csproj",
+      "projectPath": "E:\\eGeneration\\Training\\SelfTests\\Git\\Git-MD\\EFExample\\GitExample\\GitExample.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\eGeneration\\Training\\SelfTests\\Git\\Git-Part-S-Islam-M\\GitExample\\GitExample\\obj\\",
+      "outputPath": "E:\\eGeneration\\Training\\SelfTests\\Git\\Git-MD\\EFExample\\GitExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
